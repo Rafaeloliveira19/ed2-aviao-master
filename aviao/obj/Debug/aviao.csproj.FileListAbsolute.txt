@@ -1,0 +1,19 @@
+c:\users\aluno\documents\visual studio 2015\Projects\aviao\aviao\bin\Debug\aviao.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\aviao\aviao\obj\Debug\aviao.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\aviao\aviao\obj\Debug\aviao.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\aviao\aviao\obj\Debug\aviao.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\aviao\aviao\obj\Debug\aviao.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\aviao\aviao\bin\Debug\aviao.exe
+c:\users\aluno\documents\visual studio 2015\Projects\aviao\aviao\bin\Debug\aviao.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\aviao\aviao\obj\Debug\aviao.exe
+c:\users\aluno\documents\visual studio 2015\Projects\aviao\aviao\obj\Debug\aviao.pdb
+C:\Users\Sherlock\Desktop\Rafael\ed2-projeto2-master\aviao\bin\Debug\aviao.exe.config
+C:\Users\Sherlock\Desktop\Rafael\ed2-projeto2-master\aviao\bin\Debug\aviao.exe
+C:\Users\Sherlock\Desktop\Rafael\ed2-projeto2-master\aviao\bin\Debug\aviao.pdb
+C:\Users\Sherlock\Desktop\Rafael\ed2-projeto2-master\aviao\obj\Debug\aviao.csprojAssemblyReference.cache
+C:\Users\Sherlock\Desktop\Rafael\ed2-projeto2-master\aviao\obj\Debug\aviao.Form1.resources
+C:\Users\Sherlock\Desktop\Rafael\ed2-projeto2-master\aviao\obj\Debug\aviao.Properties.Resources.resources
+C:\Users\Sherlock\Desktop\Rafael\ed2-projeto2-master\aviao\obj\Debug\aviao.csproj.GenerateResource.cache
+C:\Users\Sherlock\Desktop\Rafael\ed2-projeto2-master\aviao\obj\Debug\aviao.csproj.CoreCompileInputs.cache
+C:\Users\Sherlock\Desktop\Rafael\ed2-projeto2-master\aviao\obj\Debug\aviao.exe
+C:\Users\Sherlock\Desktop\Rafael\ed2-projeto2-master\aviao\obj\Debug\aviao.pdb

@@ -1,0 +1,10 @@
+C:\Users\Sherlock\Desktop\Rafael\ed2-aviao-master\aviao\bin\Debug\aviao.exe.config
+C:\Users\Sherlock\Desktop\Rafael\ed2-aviao-master\aviao\bin\Debug\aviao.exe
+C:\Users\Sherlock\Desktop\Rafael\ed2-aviao-master\aviao\bin\Debug\aviao.pdb
+C:\Users\Sherlock\Desktop\Rafael\ed2-aviao-master\aviao\obj\Debug\latam.csprojAssemblyReference.cache
+C:\Users\Sherlock\Desktop\Rafael\ed2-aviao-master\aviao\obj\Debug\aviao.Form1.resources
+C:\Users\Sherlock\Desktop\Rafael\ed2-aviao-master\aviao\obj\Debug\aviao.Properties.Resources.resources
+C:\Users\Sherlock\Desktop\Rafael\ed2-aviao-master\aviao\obj\Debug\latam.csproj.GenerateResource.cache
+C:\Users\Sherlock\Desktop\Rafael\ed2-aviao-master\aviao\obj\Debug\latam.csproj.CoreCompileInputs.cache
+C:\Users\Sherlock\Desktop\Rafael\ed2-aviao-master\aviao\obj\Debug\aviao.exe
+C:\Users\Sherlock\Desktop\Rafael\ed2-aviao-master\aviao\obj\Debug\aviao.pdb
